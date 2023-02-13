@@ -1,0 +1,17 @@
+keras
+libclang
+Markdown
+matplotlib
+mplcursors
+numpy
+opencv-python
+Pillow
+pytesseract
+scipy
+tf2onnx
+tensorflow>2.6.0
+imutils>=0.5.4
+deskew>=0.10.36
+flask 
+flask-restful
+flask_cors
